@@ -1,0 +1,7 @@
+# Python缓存文件
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+*.log
